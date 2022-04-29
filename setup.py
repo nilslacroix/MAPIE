@@ -2,7 +2,7 @@ import codecs
 from setuptools import find_packages, setup
 
 
-DISTNAME = "MAPIE"
+DISTNAME = "Mapie"
 VERSION = "0.3.2"
 DESCRIPTION = (
     "A scikit-learn-compatible module "
